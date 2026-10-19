@@ -1,12 +1,4 @@
-"""
-Приложение «Заметки» для экзамена по ООП.
-Зависимость: pip install PySide6
-Запуск: python notes_app.py
 
-Данные заметок хранятся в notes.txt в простом текстовом формате.
-При закрытии создаётся/дополняется report.txt:
-login | time_in | time_out
-"""
 from __future__ import annotations
 
 import os
