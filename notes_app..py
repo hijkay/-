@@ -6,7 +6,6 @@
 Данные заметок хранятся в notes.txt в простом текстовом формате.
 При закрытии создаётся/дополняется report.txt:
 login | time_in | time_out
-Формат времени: %d.%m.%Y %H:%M:%S
 """
 from __future__ import annotations
 
